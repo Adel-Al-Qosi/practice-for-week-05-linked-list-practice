@@ -32,6 +32,7 @@ describe('Doubly Linked List', () => {
             doublyLinkedList.addToHead(1);
             doublyLinkedList.addToHead(2);
             doublyLinkedList.addToHead(3);
+
         });
 
         it('addToHead adds the correct head node', () => {
